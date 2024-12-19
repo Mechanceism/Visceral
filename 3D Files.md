@@ -2,6 +2,8 @@
 
 https://drive.google.com/drive/folders/1jMlDUwC4PY6TqqsLlsZDI1snUE9H14gZ?usp=drive_link
 
+Google Drive is used since Github's max upload size is 25mb
+
 # Log
 
 10/28/24: (V1.0)
