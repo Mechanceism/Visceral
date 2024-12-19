@@ -80,7 +80,7 @@ Openinverter has a large Wiki and Forum page for technical stuff:
 - https://youtu.be/ddJABbwRjb8
 
 10/25/24:
-- 3D Scanned and Cleaned:
+- 3D Scanned and Cleaned (V1.0): 
   - 2017 Subaru Brz Axle & Hub
   - 2017 Subaru Brz Half Driveshaft
   - 2013 Y38 LSD Differential
