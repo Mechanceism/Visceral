@@ -33,8 +33,8 @@ If you would like any additions or would like to comment, you can on github or d
 - Nissan Leaf Gen 2 Front Right Battery Module (24kW)
 - Nissan Leaf Gen 2 Rear Battery Module (24kW)
 
-# In progress: (For Github)
-- Scanning
+# In progress:
+- 3D Scanning
     - Leaf Rotors
     - Leaf Calipers
     - Trailer Tires
