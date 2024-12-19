@@ -21,6 +21,12 @@ If you would like to support you can:
 If you would like any additions or would like to comment, you can on github or discord (I'm way more responsive on discord).
 - Discord: https://discord.gg/JEBB7AkRvA
 
+Openinverter has a large Wiki and Forum page for technical stuff:
+- Wiki: https://openinverter.org/wiki/Main_Page
+- Forum: https://openinverter.org/forum/
+- My Project: https://openinverter.org/forum/viewtopic.php?t=5636
+- Past ESP Issue: https://openinverter.org/forum/viewtopic.php?t=5725
+
 # Updates:
 12/18/2024: Scanned, Cleaned, and Scaled 3D files were uploaded
 - 2017 Subaru Brz Axle & Hub
