@@ -39,7 +39,6 @@ Openinverter has a large Wiki and Forum page for technical stuff:
     - Video Out Soon
 - G35 Sprocket Fitting
 - Leaf Spline to Sprocket
-- Drivetrain Adaptor Plates
 - Wiring Zombieverter
 
 # Updates:
@@ -116,3 +115,6 @@ Openinverter has a large Wiki and Forum page for technical stuff:
   - Nissan Leaf Gen 2 Front Left Battery Module (24kW)
   - Nissan Leaf Gen 2 Front Right Battery Module (24kW)
   - Nissan Leaf Gen 2 Rear Battery Module (24kW)
+- Modeled and Uploaded Adaptor Plates (V1.0)
+  - Driveshaft to G35 Output
+  - Y38 Input to G35 Output
