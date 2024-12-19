@@ -1,5 +1,6 @@
 # Visceral
 Venn Visceral: Nissan Leaf powered gokart
+
 Description: I wanted an electric gokart that was way more powerful than the basic ones and the qs series.
 So, I'm putting a 2015 Gen 2 Nissan leaf motor and battery pack into a gokart
 General Specs:
