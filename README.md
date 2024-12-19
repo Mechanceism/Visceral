@@ -79,6 +79,19 @@ Openinverter has a large Wiki and Forum page for technical stuff:
 - Drivetrain of the 200hp Electric AWD GOKART!: Part 2
 - https://youtu.be/ddJABbwRjb8
 
+10/25/24:
+- 3D Scanned and Cleaned:
+  - 2017 Subaru Brz Axle & Hub
+  - 2017 Subaru Brz Half Driveshaft
+  - 2013 Y38 LSD Differential
+  - 2015? G35 VLSD Differential
+  - Nissan Leaf Gen 2 Full Stack (EM57)
+  - Nissan Leaf Gen 2 PDM (6.6kW)
+  - Nissan Leaf Gen 2 Motor & Inverter (EM57)
+  - Nissan Leaf Gen 2 Front Left Battery Module (24kW)
+  - Nissan Leaf Gen 2 Front Right Battery Module (24kW)
+  - Nissan Leaf Gen 2 Rear Battery Module (24kW)
+
 10/28/24:
 - 3D Scanning Parts for the AWD Electric GOKART!: Part 3
 - https://youtu.be/kgrAyCyzq7k
@@ -86,6 +99,9 @@ Openinverter has a large Wiki and Forum page for technical stuff:
 11/18/24:
 - How to program a Zombieverter ESP Web Interface & Troubleshooting; AWD Electric GOKART!: Part 4
 - https://youtu.be/B69Pwphioj4
+
+12/12/24:
+- Assembled and Tested Leaf 24kwh Battery
 
 12/18/2024:
 - Github Page created
