@@ -28,3 +28,7 @@ Google Drive is used since Github's max upload size is 25mb
 - Modeled and Uploaded Adaptor Plates (V1.0) (Threads are missing for 3d print mockup)
   - Driveshaft to G35 Output
   - Y38 Input to G35 Output
+
+12/19/24:
+- Scanned, Cleaned, and Scaled 3D files (V1.2) were uploaded
+  - 12inch Trailer Tire
