@@ -120,5 +120,5 @@ Openinverter has a large Wiki and Forum page for technical stuff:
   - Y38 Input to G35 Output
 
 12/19/24:
-- Scanned, Cleaned, and Scaled 3D files (V1.1) were uploaded
+- Scanned, Cleaned, and Scaled 3D files (V1.2) were uploaded
   - 12inch Trailer Tire
