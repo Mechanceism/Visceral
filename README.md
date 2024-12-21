@@ -118,3 +118,7 @@ Openinverter has a large Wiki and Forum page for technical stuff:
 - Modeled and Uploaded Adaptor Plates (V1.0)
   - Driveshaft to G35 Output
   - Y38 Input to G35 Output
+
+12/19/24:
+- Scanned, Cleaned, and Scaled 3D files (V1.1) were uploaded
+  - 12inch Trailer Tire
