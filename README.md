@@ -32,11 +32,6 @@ Openinverter has a large Wiki and Forum page for technical stuff:
     - Leaf Rotors
     - Leaf Calipers
     - Trailer Tires
-- 3D Modeling
-    - Arranging parts
-    - Outer Shell Body
-- Leaf Battery Testing
-    - Video Out Soon
 - G35 Sprocket Fitting
 - Leaf Spline to Sprocket
 - Wiring Zombieverter
@@ -121,4 +116,8 @@ Openinverter has a large Wiki and Forum page for technical stuff:
 
 12/19/24:
 - Scanned, Cleaned, and Scaled 3D files (V1.2) were uploaded
-  - 12inch Trailer Tire
+- 12inch Trailer Tire
+ 
+12/30/2024:
+- Testing My 2015 Nissan Leaf High Voltage Battery: Venn Visceral Part 6
+- https://youtu.be/flebvOQL_7I
